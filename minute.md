@@ -7,21 +7,21 @@ Riunione del gruppo di lavoro IAM PROXY OIDC del 28 Marzo 2022.
 Note: Davide Vaghetti
 
 ## Partecipanti
-Andrea Ranaldi 
-Alfonso Sparano 
-Arianna Arona 
-Arnaud Ceol 
-Federica Agostini 
-Francesco Zanolin 
-Giuseppe Masino 
-Mario Di Lorenzo 
-Matteo Perego 
-Roberta Miccoli
-Salvatore Todaro
-Simone Avogadro 
-Simone Lanzarini Cineca 
-Stefano Colagreco
-Davide Vaghetti 
+* Andrea Ranaldi 
+* Alfonso Sparano 
+* Arianna Arona 
+* Arnaud Ceol 
+* Federica Agostini 
+* Francesco Zanolin 
+* Giuseppe Masino 
+* Mario Di Lorenzo 
+* Matteo Perego 
+* Roberta Miccoli
+* Salvatore Todaro
+* Simone Avogadro 
+* Simone Lanzarini Cineca 
+* Stefano Colagreco
+* Davide Vaghetti 
 
 # Discussione
 ## Giro di presentazioni
@@ -52,8 +52,8 @@ Riunione del gruppo di lavoro IAM PROXY OIDC del GIORNO MESE ANNO.
 Note: NOME COGNOME
 
 ## Partecipanti
-Nome Cognome
-Nome Cognome
+* Nome Cognome
+* Nome Cognome
 ...
 
 ## Discussione
